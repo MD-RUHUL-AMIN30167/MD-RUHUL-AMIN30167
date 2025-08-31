@@ -48,6 +48,7 @@
 
 #### **💻 JavaScript Projects**
 - Drink Card App [CODE LINK] ([https://github.com/MD-RUHUL-AMIN30167/drink-card-app](https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git))  
+- Drink Card App [LIVE LINK] (([https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git](https://md-ruhul-amin30167.github.io/jsasseinment/))  
 *(Dynamic Cards, Modal, Cart, Responsive UI)*
 
 ---
