@@ -47,7 +47,7 @@
   *(User Authentication, CRUD, Admin Panel, Booking, Role-Based Access)*
 
 #### **💻 JavaScript Projects**
-- [Drink Card App](https://github.com/MD-RUHUL-AMIN30167/drink-card-app)  
+- Drink Card App [CODE LINK] ([https://github.com/MD-RUHUL-AMIN30167/drink-card-app](https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git))  
 *(Dynamic Cards, Modal, Cart, Responsive UI)*
 
 ---
