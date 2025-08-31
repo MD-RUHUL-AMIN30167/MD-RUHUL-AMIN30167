@@ -38,18 +38,16 @@
 #### **📘 Data Structures & Algorithms**
 - [DSA in C/C++/Python](https://github.com/MD-RUHUL-AMIN30167)  
 *(Arrays, Linked List, Graphs, DP, Sorting, etc.)*
-
+#### **💻 JavaScript Projects**
+- Drink Card App [CODE LINK] ([https://github.com/MD-RUHUL-AMIN30167/drink-card-app](https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git))  
+- Drink Card App [LIVE LINK] (([https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git](https://md-ruhul-amin30167.github.io/jsasseinment/))  
+*(Dynamic Cards, Modal, Cart, Responsive UI)*
 #### **🌐 Django Projects**
 - TASK-MANAGMENT-SYSTEM (https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)<br>
   *(User Authentication, CRUD, Admin Panel, Role-Based Access)*
 
 - EVENT-MANAGMENT-SYSTEM (https://github.com/MD-RUHUL-AMIN30167/event-managment.git)<br>
   *(User Authentication, CRUD, Admin Panel, Booking, Role-Based Access)*
-
-#### **💻 JavaScript Projects**
-- Drink Card App [CODE LINK] ([https://github.com/MD-RUHUL-AMIN30167/drink-card-app](https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git))  
-- Drink Card App [LIVE LINK] (([https://github.com/MD-RUHUL-AMIN30167/jsasseinment.git](https://md-ruhul-amin30167.github.io/jsasseinment/))  
-*(Dynamic Cards, Modal, Cart, Responsive UI)*
 
 ---
 
