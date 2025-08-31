@@ -32,8 +32,8 @@
 
 ### 📂 My Projects
 #### **📘 C Projects**
-- [C Practices](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
-*(Arrays, Linked List, Graphs, DP, Sorting, etc.)*
+- [LEARN WITH PROGRAMMING IN C](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
+*(function, array, 2d array, plaindrom, Sorting, etc.)*
 
 #### **📘 Data Structures & Algorithms**
 - [DSA in C/C++/Python](https://github.com/MD-RUHUL-AMIN30167)  
