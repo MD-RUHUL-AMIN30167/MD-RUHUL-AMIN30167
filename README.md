@@ -42,7 +42,7 @@
 #### **🌐 Django Projects**
 - [TASK-MANAGMENT-SYSTEM](https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)  
 *(User Authentication, CRUD,Admin Panel, Role-Based Access)*
-- [EVENT-MANAGMENT](https://github.com/MD-RUHUL-AMIN30167/event-managment.git)
+- [EVENT-MANAGMENT-SYSTEM](https://github.com/MD-RUHUL-AMIN30167/event-managment.git)
 *(User Authentication, CRUD, Admin Panel,Booking, Role-Based Access)*
 
 #### **💻 JavaScript Projects**
