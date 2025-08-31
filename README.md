@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 ---
+### 📂 My Projects
+#### **📘TEST WITH PROGRAMMING **
+- [TEST IN C ](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES.git)  
+*(Arrays, Linked List, Graphs, DP, Sorting, etc.)*
 
 ### 📂 My Projects
 #### **📘 Data Structures & Algorithms**
