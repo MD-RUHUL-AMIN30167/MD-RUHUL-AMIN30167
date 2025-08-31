@@ -43,7 +43,7 @@
 - TASK-MANAGMENT-SYSTEM(https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)<br>
   *(User Authentication, CRUD, Admin Panel, Role-Based Access)*
 
-- [EVENT-MANAGMENT-SYSTEM](https://github.com/MD-RUHUL-AMIN30167/event-managment.git)<br>
+- EVENT-MANAGMENT-SYSTEM [CLICK LINK](https://github.com/MD-RUHUL-AMIN30167/event-managment.git)<br>
   *(User Authentication, CRUD, Admin Panel, Booking, Role-Based Access)*
 
 #### **💻 JavaScript Projects**
