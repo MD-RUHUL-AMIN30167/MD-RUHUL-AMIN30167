@@ -33,7 +33,7 @@
 ### 📂 My Projects
 #### **📘 C Projects**
 - [LEARN WITH PROGRAMMING IN C](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
-*(function, array, 2d array, plaindrom, Sorting, etc.)*
+*(Function,Recursions,Array, 2D array, Plaindrom, Sorting, etc.)*
 
 #### **📘 Data Structures & Algorithms**
 - [DSA in C/C++/Python](https://github.com/MD-RUHUL-AMIN30167)  
