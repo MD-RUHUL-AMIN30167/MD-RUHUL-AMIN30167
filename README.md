@@ -6,11 +6,12 @@
 ---
 
 ### 🌟 About Me
-- 🎓 Completed **Full Stack Development Course (15 months)**  
+- 🎓 Completed **Diploma in Computer Science and Technology** from **Faridpur Polytechnic Institute**  
+- 🎓 Completed **Full Stack Development **  
 - 🔍 Strong in **Data Structures & Algorithms** (C, C++, Python)  
-- 🌐 Experienced with **Django**, **HTML**, **CSS**, **JavaScript**  
-- 🚀 Currently learning **AI/ML** with a Full Free Scholarship  
-- 📚 Future Goal: **Research in AI/ML (Bachelor → Master's → Ph.D.)**
+- 🌐 Experienced with  **HTML**, **CSS**, **JavaScript**,**Django**  
+- 🚀 Currently learning **AI/ML** 
+- 📚 Future Goal: **Research in AI/ML **
 
 ---
 
