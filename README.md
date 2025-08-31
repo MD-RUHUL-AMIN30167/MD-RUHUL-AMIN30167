@@ -40,7 +40,7 @@
 *(Arrays, Linked List, Graphs, DP, Sorting, etc.)*
 
 #### **🌐 Django Projects**
-- [TASK-MANAGMENT-SYSTEM](https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)<br>
+- TASK-MANAGMENT-SYSTEM(https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)<br>
   *(User Authentication, CRUD, Admin Panel, Role-Based Access)*
 
 - [EVENT-MANAGMENT-SYSTEM](https://github.com/MD-RUHUL-AMIN30167/event-managment.git)<br>
