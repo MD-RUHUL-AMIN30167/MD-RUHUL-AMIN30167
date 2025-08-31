@@ -31,8 +31,8 @@
 ---
 
 ### 📂 My Projects
-#### **📘 C Projects**
-- [LEARN WITH PROGRAMMING IN C](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
+#### **📘 LEARN WITH PROGRAMMING IN C**
+- [THIS MY PARTICES CODE  ](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
 *(Function,Recursions,Array, 2D array, Plaindrom, Sorting, etc.)*
 
 #### **📘 Data Structures & Algorithms**
