@@ -48,6 +48,8 @@
 
 - EVENT-MANAGMENT-SYSTEM CODE LINK ->>(https://github.com/MD-RUHUL-AMIN30167/event-managment.git)<br>
   *(User Authentication, CRUD, Admin Panel, Booking, Role-Based Access)*
+- EVENT-MANAGMENT-SYSTEM Live LINK ->>([https://github.com/MD-RUHUL-AMIN30167/event-managment.git](https://event-managment-l92k.onrender.com))<br>
+  *(User name- Admin Password-123456)*
 
 ---
 
