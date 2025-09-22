@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Ruhul Amin</h1>
+<h1 align="center">Hi 👋, I'm MD RUHUL AMIN</h1>
 <h3 align="center">Full Stack Developer | Passionate about DSA & AI/ML</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -10,7 +10,7 @@
 - 🎓 Completed **Full Stack Development**  
 - 🔍 Strong in **Data Structures & Algorithms** (C, C++, Python)  
 - 🌐 Experienced with **HTML**, **CSS**, **JavaScript**, **Django**, **Bootstrap**, **Tailwind CSS**  
-- 🚀 Currently learning **AI/ML**  
+- 🚀 Currently learning **Python**  
 - 📚 Future Goal: **Research in AI/ML**
 
 ---
