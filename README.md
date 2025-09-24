@@ -33,26 +33,67 @@
 ---
 
 ### 📂 My Projects
-#### **📘 Learn with Programming in C**
-- 🔗 [C Practice Codes](https://github.com/MD-RUHUL-AMIN30167/C-PARTICES)  
-*(Functions, Recursion, Arrays, 2D arrays, Palindrome, Sorting, etc.)*
 
-#### **📘 Data Structures & Algorithms**
-- 🔗 [DSA in C/C++/Python](https://github.com/MD-RUHUL-AMIN30167)  
-*(Arrays, Linked List, Graphs, DP, Sorting, etc.)*
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-#### **💻 JavaScript Projects**
-- 🔗 [Drink Card App Code](https://github.com/MD-RUHUL-AMIN30167/drink-card-app)  
-- 🌐 [Drink Card App Live](https://md-ruhul-amin30167.github.io/jsasseinment/)  
-*(Dynamic Cards, Modal, Cart, Responsive UI)*
+<!-- Project Card -->
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+<h3 style="color:#60A5FA;">📘 Learn with Programming in C</h3>
+<p>Functions, Recursion, Arrays, 2D arrays, Palindrome, Sorting, etc.</p>
+<p>
+<a href="https://github.com/MD-RUHUL-AMIN30167/C-PARTICES" target="_blank">
+<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+</div>
 
-#### **🌐 Django Projects**
-- 🔗 [Task Management System](https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj)  
-  *(User Authentication, CRUD, Admin Panel, Role-Based Access)*  
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+<h3 style="color:#60A5FA;">📘 Data Structures & Algorithms</h3>
+<p>Arrays, Linked List, Graphs, DP, Sorting, etc.</p>
+<p>
+<a href="https://github.com/MD-RUHUL-AMIN30167" target="_blank">
+<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+</div>
 
-- 🔗 [Event Management System Code](https://github.com/MD-RUHUL-AMIN30167/event-managment/tree/admin-manager)  
-- 🌐 [Event Management System Live](https://event-managment-l92k.onrender.com) *(Username: Admin | Password: 123456)*  
-  *(User Authentication, CRUD, Admin Panel, Booking, Role-Based Access)*  
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+<h3 style="color:#60A5FA;">💻 Drink Card App</h3>
+<p>Dynamic Cards, Modal, Cart, Responsive UI</p>
+<p>
+<a href="https://github.com/MD-RUHUL-AMIN30167/drink-card-app" target="_blank">
+<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://md-ruhul-amin30167.github.io/Portfolio-1/" target="_blank">
+<img src="https://img.shields.io/badge/Live-Portfolio-green?style=for-the-badge"/>
+</a>
+</p>
+</div>
+
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+<h3 style="color:#60A5FA;">🌐 Task Management System</h3>
+<p>User Authentication, CRUD, Admin Panel, Role-Based Access</p>
+<p>
+<a href="https://github.com/MD-RUHUL-AMIN30167/task-manegment-first-dj" target="_blank">
+<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+</div>
+
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+<h3 style="color:#60A5FA;">🌐 Event Management System</h3>
+<p>User Authentication, CRUD, Admin Panel, Booking, Role-Based Access</p>
+<p>
+<a href="https://github.com/MD-RUHUL-AMIN30167/event-managment/tree/admin-manager" target="_blank">
+<img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://event-managment-l92k.onrender.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge"/>
+</a>
+</p>
+</div>
+
+</div>
 
 ---
 
@@ -65,7 +106,7 @@
 ---
 
 ### 🤝 Connect with Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/md-ruhul-amin-68837130a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
