@@ -31,6 +31,16 @@
 </p>
 
 ---
+<div style="background:#1F2937; border-radius:12px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+<h3 style="color:#60A5FA;">🌐 My Portfolio</h3>
+<p>View all my projects & work live</p>
+<p>
+<a href="https://md-ruhul-amin30167.github.io/Portfolio-1/" target="_blank">
+<img src="https://img.shields.io/badge/Live-Portfolio-green?style=for-the-badge"/>
+</a>
+</p>
+</div>
+
 
 ### 📂 My Projects
 
@@ -64,9 +74,7 @@
 <a href="https://github.com/MD-RUHUL-AMIN30167/drink-card-app" target="_blank">
 <img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://md-ruhul-amin30167.github.io/Portfolio-1/" target="_blank">
-<img src="https://img.shields.io/badge/Live-Portfolio-green?style=for-the-badge"/>
-</a>
+
 </p>
 </div>
 
