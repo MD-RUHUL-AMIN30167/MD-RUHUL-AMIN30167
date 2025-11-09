@@ -71,7 +71,7 @@
 <h3 style="color:#60A5FA;">💻 Drink Card App</h3>
 <p>Dynamic Cards, Modal, Cart, Responsive UI</p>
 <p>
-<a href="https://github.com/MD-RUHUL-AMIN30167/drink-card-app" target="_blank">
+<a href="[https://github.com/MD-RUHUL-AMIN30167/drink-card-app](https://md-ruhul-amin30167.github.io/jsasseinment/)" target="_blank">
 <img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
