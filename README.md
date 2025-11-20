@@ -95,7 +95,7 @@
 <a href="https://github.com/MD-RUHUL-AMIN30167/event-managment/tree/admin-manager" target="_blank">
 <img src="https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://event-managment-l92k.onrender.com" target="_blank">
+<a href="[https://event-managment-l92k.onrender.com](https://event-managment-c3s5.onrender.com/event_App/index/)" target="_blank">
 <img src="https://img.shields.io/badge/Live-Project-green?style=for-the-badge"/>
 </a>
 </p>
